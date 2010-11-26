@@ -1,0 +1,5 @@
+; $Id$
+name = Export Users Details in CSV file
+description = Export Users Details in CSV file.
+core = 6.x
+
